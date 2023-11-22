@@ -1,0 +1,11 @@
+.boton{
+    background-color: red;
+    margin-top: 10px;
+    padding: 7px 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+}
+.boton :hover{
+    background-color: red;
+}
